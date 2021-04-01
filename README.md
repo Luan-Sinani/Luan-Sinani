@@ -9,7 +9,8 @@
 - 💬 Ask me ...how I can help you with
 - 📫 Feel welcome to reach me on Social Media
 - ⚡ Fun fact: Resumed Cyclying after a while :-)
--->
+
+
 
 ## 📫 My presence on Social Media
 
@@ -17,7 +18,7 @@
   <img align="left" alt="Luan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/https://twitter.com/LuanSinani_">
+<a href="https://twitter.com/LuanSinani_">
   <img align="left" alt="Luan Sinani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
