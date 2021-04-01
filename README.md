@@ -1,24 +1,23 @@
 ### Hello visitor, welcome to my Github!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## What do I do?
+## What do I do currently ?
 
 - 🔭 I’m currently working on ...Some projects
-- 🌱 I’m currently learning ...life-long learning
-- 👯 I’m looking to collaborate on ...open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about how I can help you with
-- 📫 How to reach me: Check you my social media
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ...Life-long learning
+- 👯 I’m looking to collaborate on ...Open Source projects
+- 💬 Ask me ...how I can help you with
+- 📫 Feel welcome to reach me on Social Media
+- ⚡ Fun fact: Resumed Cyclying after a while :-)
 -->
 
-## 📫 Feel free to reach out
+## 📫 My presence on Social Media
 
 <a href="https://www.linkedin.com/in/luansinani/">
   <img align="left" alt="Luan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/luansinani">
+<a href="https://twitter.com/https://twitter.com/LuanSinani_">
   <img align="left" alt="Luan Sinani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
